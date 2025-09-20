@@ -20,3 +20,7 @@ one should reach for git rebase instead of git merge when integrating changes fr
 another branch.
 On the other hand, if you want to preserve the complete history of your project and 
 avoid the risk of re-writing public commits, you can stick with git merge.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Parties and studying hard!
