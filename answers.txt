@@ -11,3 +11,12 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: Data Science could be applied to all types of fields.
 For Instance, in marketing we can do customer analysis to identify relations
 between demographics and spending and buying habits.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: If one prefers a clean, linear history free of unnecessary merge commits, 
+one should reach for git rebase instead of git merge when integrating changes from 
+another branch.
+On the other hand, if you want to preserve the complete history of your project and 
+avoid the risk of re-writing public commits, you can stick with git merge.
